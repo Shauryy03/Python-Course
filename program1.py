@@ -1,0 +1,5 @@
+print("hellow world") 
+print("shaury is my name","from lnct")
+print("my age is 23")
+print(23)
+print(23-33,90*2)
